@@ -82,6 +82,4 @@ This project is a simple time-based reaction game built using an Arduino UNO. Pr
 *   **Sounds/Feedback:** Modify the `tone()` frequency or add different patterns. Change LED behavior.
 *   **Relay Action:** Connect different devices to the relay's output contacts (COM, NO/NC) to create various "explosion" effects (ensure the relay can handle the load).
 
-## License
 
-(Optional: Add a license here, e.g., MIT, GPL)
