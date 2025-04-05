@@ -1,3 +1,12 @@
+# ⚠️ Capacitor Game Crisis - Arduino Defuse Challenge (Simulation Only)
+
+> **🚨 WARNING: FOR EDUCATIONAL SIMULATION PURPOSES ONLY**  
+> Do **NOT** build or power this circuit in real life.  
+> Misuse can result in **component damage**, **fire**, or **personal injury**.  
+> This project is designed for use **only in simulation environments** (e.g., Tinkercad, Proteus).  
+> You assume all responsibility if you ignore this warning.
+
+---
 # Capacitor Game Crisis - Arduino Defuse Challenge
 
 This project is a simple time-based reaction game built using an Arduino UNO. Press one button to start a 30-second countdown "crisis". You must press the second button within the time limit to "defuse" the situation. Failure results in a simulated "explosion" triggered via a relay.
